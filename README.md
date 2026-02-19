@@ -9,7 +9,7 @@ Multi‑label классификация финансовых продуктов
 
 Файл: `main-0,835.ipynb`
 
-1. **Public Score: 0,8354** — Обучение Catboost без валидации
+1. **Public Score: 0,835** — Обучение Catboost без валидации
 
 ## Соревнование
 - **Ссылка на задачу:** [Data Fusion Contest 2026](https://ods.ai/competitions/data-fusion2026-cybershelf)
